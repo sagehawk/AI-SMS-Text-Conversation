@@ -17,6 +17,7 @@ To get started with the AI SMS Text Conversation Project, you'll need to:
 `pip install openai`
 
 `pip install --upgrade google-api-python-client`
+
 `pip install python-dateutil`
 
 ## Set up a Twilio account and purchase a phone number.
