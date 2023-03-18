@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dojo-bot-374723",
+  "private_key_id": "ea0ee8a0924bfbedf73c8d66ccf4e6ef4954980d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC4FGG91NHw4n4e\nRUMMiIFQDmmR4ZxYfUtAM1RvzR5iEmHgHXL1L693edXdY63hTkwLkOY9erLXVRCm\nDgxAjDbuEbH9mvg+/7wSvXMVTi1GwBpTeVsCzRD7gJYUmK82N2DZfw1Ybs0Blsjy\nBVbbgiSyK2IZiPm+heaXe/xk3Q49YY9DyV1yjSGarJnivyKkQ7BgxvmKcGu7A2Fk\nAaOnIayDM9OEltsjxkqKO+HUxvsc5dqvXMeGLXDtCwRAaz+qqBi5jIWy+tDhLKGV\na4tCvc5qB6FqgaLJRnpw2dWjY0vlbtii6J83r4neJN6psn4YFffyRJRkX6f0HEKq\n9Sd7Qd/ZAgMBAAECggEALzxDrIOc77Qe6sOZJfEtRY69NkrvZKGaGrpRM3MuFbpj\n1S+ZXSNEYmMoJuw6JTODPgCLpEEE/U59vC6kpDeWrNZrlwkaJIhZCXIFwvTRl3Ma\nDkt4uCpI7lCbsmNPqpjhSE5a7VNZVcwMelY2aJNnuTR6stS8SVBw0HRnWraCvesI\nWPQVrhVCW190shVdTqyxtohW4IujAXultO0OWVO6agP6vRjXUVVWGKawCUi84Tv6\nvErPjAiCl1MUTfWEu3M6dQn3EkcJQDvoiSJm/TWxyb6VAGtLk++v9VWRBF+d/v7a\nP8OTznZeVPFoIOxvJv30rBqD7LA65GE6g8YwB0HvdQKBgQDkz6bvMTg1jN9bXtum\nfzCmPXy9zXO+HaylmLR7OI1aUP00IHJV4NXPOLCnqNArVeWJY25Mnbp1j5DqhIZX\nTQ1xXS+FNQU7PUOr26OQbYnO1PhN/mZuN/Izvpet0is0D2yMq6UY7hYU3DlSWVDQ\nsOBrvS2Mm/ksQdHZ8pFd53BB/wKBgQDN9AOE27yFYejyzfYYqffsDeqg7NrE08+V\naLUnudLvmkjwc2rbuUVH4Zl3F+dvKMtAcOJKB8LoIE1OSDg55htJcqxfESFyws9E\neNeUySqyhLCZUyq/bPFkIv1b3VOj+2ILMvwqyIYJOeH40PlqfjGcMLfbkrE7pTKC\n07/fWrQuJwKBgH7ZtFWVNvFROR7htupWRzVSj052kX1L3EQuJZjOoGb60XVNq7V6\noW5xolZA26+6vjdtvV+SbiXwwsmRUR0jJZm8rLSv0UenTlX/vW07nRPitAohSM5A\nC/Gt7085XiRNjMNsAWqRzAIimVDTHV+lP7XbOl5itkBX+SxYM0kZHv4nAoGAXcoS\n1C0RJBjbcb8zpDW7Doej4tcaJWpj7SF65fVsxuqW7tFQx3EOyNZHAgIjxe5o6Ra/\nJoF0VCtpqQ2gdVWB9afAMabmeZGXvBHf8wTNafCdT6WdIQGmyDha8rvO/C1dj8YP\nKhiZWZg/fQUFoGaJhxx0jgy2o3fukb+GcFupFB8CgYBbCN2Al/VfxqMbiFyhE2cn\nx/xV3r3/ylqC859sndv7b6I4dbv/77eO98miMmDka5/xl9WsrEfaA4ufM6lHKiWo\nrEaosLmQiWTba37aA/8iXQEMFgmcVFf9mpIVpvXIHyRL2Df4nDVMgqnbwSg2aCA7\nbJap8K2JzUVFVfREkNvwdg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dojo-bot-demo@dojo-bot-374723.iam.gserviceaccount.com",
+  "client_id": "117616797968305623588",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dojo-bot-demo%40dojo-bot-374723.iam.gserviceaccount.com"
+}
