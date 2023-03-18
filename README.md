@@ -1,12 +1,12 @@
 # AI-SMS-Text-Conversation
-The AI SMS Text Conversation Project is an open-source project that allows users to engage in SMS text conversations with an AI-powered chatbot. Powered by OpenAI and Twilio, this project incorporates natural language processing (NLP) technology and machine learning algorithms to enable the chatbot to understand and respond to users' messages in a conversational manner.
+The AI SMS Text Conversation Project is an open-source project that allows users to engage in SMS text conversations with an AI-powered chatbot. Powered by OpenAI and Twilio, this project incorporates OpenAI technology to enable the chatbot to understand and respond to users' messages in a conversational manner.
 
 ## Features
 Allows users to engage in SMS text conversations with an AI-powered chatbot.
-Incorporates NLP technology to enable the chatbot to understand and respond to users' messages in a conversational manner.
-Uses machine learning algorithms to improve the chatbot's ability to understand and adapt to users' preferences and needs over time.
-Designed to be customizable and flexible, allowing developers to add their own features and capabilities to the chatbot.
-Getting Started
+Incorporates OpenAI ChatGPT3 to enable the chatbot to understand and respond to users' messages in a conversational manner.
+Designed to be customizable and flexible, allowing you to add your own features and capabilities to the chatbot.
+
+## Getting Started
 To get started with the AI SMS Text Conversation Project, you'll need to:
 
 ## Required PIP installs
