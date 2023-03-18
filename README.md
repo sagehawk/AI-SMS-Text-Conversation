@@ -9,6 +9,16 @@ Designed to be customizable and flexible, allowing developers to add their own f
 Getting Started
 To get started with the AI SMS Text Conversation Project, you'll need to:
 
+## Required PIP installs
+`pip install twilio`
+
+`pip install flask`
+
+`pip install openai`
+
+`pip install --upgrade google-api-python-client`
+`pip install python-dateutil`
+
 ## Set up a Twilio account and purchase a phone number.
 Clone this repository to your local machine.
 Create a virtual environment and install the required dependencies (see requirements.txt).
